@@ -12,5 +12,5 @@ O programa foi desenvolvido com o intuito de ajudar aqueles que querem passar em
 - **CSS:** Estilização e layout da página.
 - **JavaScript:** Interatividade e funcionalidades dinâmicas.
 <img src="![Captura de tela 2024-05-22 112345](https://github.com/PedronsWhi/Concurso_Questoes/assets/106763864/1d1a3e11-9255-4656-8cff-782797d296cb)
-" alt="Texto Alternativo">
+" alt="imagem Ilustrativa">
 
